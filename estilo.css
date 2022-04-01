@@ -10,21 +10,17 @@ a {
     font-weight: bold;
     text-decoration: none;
     transition: 0.75s;
-
 }
 
 a:hover{
     color: blue;
     font-size: 26px;
     transition: 0.75s;
-
 }
 
 
-
-
 body{
-    background-image: url(https://fmartinsfotografias.github.io/Fernando-Martins-curriculum/cidade2.jpg);
+    background: url(https://fmartinsfotografias.github.io/Fernando-Martins-curriculum/cidade2.jpg) center, fixed;
     text-align: center;
     font-family: 'Fredoka', sans-serif;
     color: white;
