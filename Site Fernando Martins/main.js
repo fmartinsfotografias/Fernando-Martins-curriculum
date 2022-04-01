@@ -1,1 +1,0 @@
-alert('Seja Bem vindo ao meu curriculum =D ')
