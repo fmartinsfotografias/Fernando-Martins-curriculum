@@ -20,12 +20,11 @@ a:hover{
 
 
 body{
-    background: url(https://fmartinsfotografias.github.io/Fernando-Martins-curriculum/cidade2.jpg) center, fixed;
+    background: radial-gradient(rgb(94, 94, 94), rgb(0, 0, 0)) fixed;
     text-align: center;
     font-family: 'Fredoka', sans-serif;
     color: white;
     text-decoration: white;
-    
 }
 .titulo{
     text-align: left;
